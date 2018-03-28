@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David Capella",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DCapella/node-express-practice.git"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
